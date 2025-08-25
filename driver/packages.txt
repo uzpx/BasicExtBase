@@ -1,0 +1,3 @@
+pip install requests
+pip install discord
+pip install discord.py (if not previously installed)
